@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none" role="img" aria-label="Software change analysis">
+  <g stroke="#FFD36B" stroke-width="42.667" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M149.333 149.333V362.667 M149.333 362.667C149.333 315.538 187.538 277.333 234.667 277.333H277.333C336.243 277.333 384 229.576 384 170.667V149.333"/>
+    <circle cx="149.333" cy="106.667" r="42.667"/>
+    <circle cx="384" cy="106.667" r="42.667"/>
+    <circle cx="149.333" cy="405.333" r="42.667"/>
+  </g>
+</svg>
